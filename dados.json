@@ -1,0 +1,47 @@
+[
+    {
+        "produtos": {
+            "prod123" : "Notebook Dell",
+            "prod124" : "Tablet Samsung",
+            "prod125" : "Smartphone Iphone",
+            "prod126" : "Monitor Samsung",
+            "prod127" : "Fone de Ouvido Gamer"
+        }
+    },
+    {
+        "vendedor": {
+            "vend456" : "Casas Bahia",
+            "vend457" : "Magazine Luiza",
+            "vend458": "Apple",
+            "vend459": "Samsung",
+            "vend460": "Kabum"
+        }
+    },
+    {
+        "preco": {
+            "preco789" : "2550.00",
+            "preco790" : "1300.00",
+            "preco791" : "5900.00",
+            "preco792" : "1200.00",
+            "preco793" : "200.00"
+        }
+    },
+    {
+        "imagemProdutos": {
+            "image001": "<img src='img/notebook.jpg' width='300px'>",
+            "image002": "<img src='img/tablet.jpg' width='300px'>",
+            "image003": "<img src='img/smartphone.jpg' width='300px'>",
+            "image004": "<img src='img/monitor.jpg' width='300px'>",
+            "image005": "<img src='img/fone.jpg' width='300px'>"
+        }
+    },
+    {
+        "cliente": {
+            "cliente001": "Mariana",
+            "cliente002": "Lucas",
+            "cliente003": "Fernanda",
+            "cliente004": "Carlos",
+            "cliente005": "Gustavo"
+        }
+    }
+]
